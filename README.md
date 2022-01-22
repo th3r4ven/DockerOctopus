@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/platform-windows | linux | mac OS-blue">
-    <img src="https://img.shields.io/badge/version-1.0-blue">
+    <img src="https://img.shields.io/badge/version-1.0.0-blue">
     <img src="https://img.shields.io/badge/python-3.8.6-blue">
 </p>
 
